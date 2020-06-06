@@ -1,0 +1,60 @@
+.container{
+    margin-top: 25px;
+    margin-right: 38px;
+    margin-left: 175px;
+}
+/* .card{
+    display: block;
+    margin: 2rem;
+} */
+.card-img{
+    
+    height: 750px;
+    width: 100%;
+    opacity: 0.8;
+}
+.card-img-top{
+    
+    height: 425px;
+}
+.text-white{
+   
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.5rem;
+}
+.big-banner{
+    background: url(/img/414277.jpg) no-repeat center center/cover;
+}.big-banner1{
+    background: url(/img/acne-hormones-and-food-choices-ft.jpg) no-repeat center center/cover;
+    /* opacity: 0.8; */
+}
+.font-weight-normal{
+    color: black;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.font{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+}
+.font-p{
+    color: white;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: bold;
+}
+
+.card-title{
+    color: black;
+}
+.p{
+    margin: 45px 30px;
+    margin-left: 150px;
+    margin-right: 170px;
+}
+.btn-outline-secondary {
+    color: white;
+    border-color: #6c757d;
+}
+.Quote{
+    margin-top: 30px;
+}
